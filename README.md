@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thygou
 - 👀 I’m interested in domotic
-- 🌱 I’m currently learning how to use jeedom
+- 🌱 I’m currently learning how to use jeedom on raspberry
 - 💞️ I’m looking to gather information and collaborate if i can on onewire plugin
 
 
